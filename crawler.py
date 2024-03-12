@@ -5,3 +5,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
 
+def hahaha:
+  if hmy == 'sb':
+    return "good"
